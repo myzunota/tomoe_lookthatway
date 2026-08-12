@@ -4,7 +4,7 @@
 
 ## ▶ 遊ぶ
 
-**https://myzunota.github.io/tomoe_lookthisway/**
+**https://myzunota.github.io/tomoe_lookthisway/tomoe_v4.html**
 
 上記URL(GitHub Pages)からそのまま遊べます。スマートフォン/PCの両方に対応しています。
 
